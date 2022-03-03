@@ -34,13 +34,20 @@ biglogo     : logo.png
 
 ---
 
-![](https://fossa.com/blog/content/images/2021/01/license-permissions.png)
+## Code and tools without a license are **not open**
+
+![](https://open-science-training-handbook.github.io/Open-Science-Training-Handbook_EN/Images/02%20Open%20Science%20Basics/02_open_licensing.png)
+
 
 ---
+
+## Open Code...
 
 All code for this presentation is available here: https://github.com/DrMattG/OpenCode-Tools 
 
 ![](assets/img/logo_txthoyre.png)
+
+Images come from The Open Science training handbook:  https://open-science-training-handbook.github.io/
 
 <div style="position: absolute; left: 750px; top: 390px; z-index:100">
     <img src="http://goo.gl/2nLPLz" alt="">
